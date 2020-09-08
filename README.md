@@ -1,0 +1,1 @@
+# c-code-fot-dfa-divisible-by-n
